@@ -654,6 +654,8 @@ h1 {
 	align-items: center;
 	display: flex;
 	background: #27303b;
+	padding-left: 40px;
+
 }
 
 .footer-copyright{
@@ -714,6 +716,7 @@ h1 {
     line-height: 3.2rem;
     font-family: 'Teko', sans-serif;
 }
+
 
 .wrapper{
 	padding: 0 3rem;
